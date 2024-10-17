@@ -3,8 +3,11 @@
 // @description Close notice, click ok, allow paste & enable pay button by Mostakim
 // @match       *://payment.ivacbd.com/*
 // @grant       none
-// @version     1.0
+// @version     5.1
 // @author      by Mostakim
+// @downloadURL  https://github.com/mostakim99m/IVAC-Helper/raw/refs/heads/main/IVAC-Helper-Advanced.js
+// @updateURL    https://github.com/mostakim99m/IVAC-Helper/raw/refs/heads/main/IVAC-Helper-Advanced.js
+// @homepage     https://github.com/mostakim99m/IVAC-Helper
 // ==/UserScript==
 
 
